@@ -1,2 +1,2 @@
 # A* Pathfinding
-Grid-Based pathfinder for Unity Tilemap System 
+This a template may be suitable for those who want to develop your own pathfind behaviours in scenes.
